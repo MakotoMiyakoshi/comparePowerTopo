@@ -26,6 +26,10 @@ Dataset 2 – Select second EEGLAB dataset (.set)
 
 Frequency Band – Enter lower and upper cutoff frequencies (e.g., [8 12] for alpha)
 
+![Demo screenshot](images/freqBand.jpg)
+
+![Demo screenshot](images/tdtopos.jpg)
+
 ## Requirements
 
 EEGLAB structure with full channel info or standard 10–20 labels
